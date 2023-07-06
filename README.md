@@ -7,4 +7,4 @@ Demonstração de como podemos implementar mensageria utilizando Amazon SQS (Que
 - Alterar no projeto as credenciais AWS_ACCESS_KEY e AWS_SECRET_KEY de acordo com sua conta AWS.
 
 # Sobre
-Este projeto foi desenvolvido por Anderson Hansen sob [MIT license](LICENSE).
+Este projeto foi desenvolvido por Anderson Hansen.
